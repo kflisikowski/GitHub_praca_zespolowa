@@ -1,3 +1,3 @@
-# Using GitHub for collaboration in R Studio
+# Wykorzystanie Git oraz GitHuba w RStudio
 
-Used to introduce GitHub to students so they can collaborate easily on projects in R. Mostly avoids command-line.
+Służy do przedstawiania studentom GitHub, aby mogli łatwo współpracować nad projektami w R. W większości przypadków unika się wiersza poleceń.
