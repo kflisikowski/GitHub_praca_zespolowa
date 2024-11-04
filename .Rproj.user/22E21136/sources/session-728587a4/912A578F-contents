@@ -1,0 +1,6 @@
+library(usethis)
+use_git_config(user.name = „kflisikowski”, user.email = „karflisi@pg.edu.pl”)
+create_github_token()
+library(gitcreds)
+gitcreds_set()
+# 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
