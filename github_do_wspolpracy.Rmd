@@ -1,6 +1,6 @@
 ---
 title: "GitHub do pracy zespołowej"
-wyjście: 
+wyjście:
   dokument_html:
     zachowaj_md: tak
     spis_treści: TAK
@@ -15,12 +15,15 @@ library(tidyverse)
 
 Duża część tego materiału została zaadaptowana z [Happy git with R autorstwa Jenny Bryan](https://happygitwithr.com/). To doskonałe źródło, ale zawiera wiele informacji, których nie potrzebujemy na tych zajęciach. Jeśli chcesz używać Gita i GitHuba w bardziej zaawansowany sposób lub jeśli moje instrukcje nie są wystarczająco jasne, zdecydowanie warto tam zajrzeć. 
 
-# Samouczek wideo
+# Samouczek wideo 1
 
-W pierwszym video-tutorialu pokazano jak zainstalować Git i skonfigurować go z R Studio. W drugim video-tutorialu pokazano, jak utworzyć repozytorium, sklonować je, dodać plik, zatwierdzić zmiany i wypchnąć je na GitHub (praca dwóch osób pracujących na jednym repo).
+W pierwszym video-tutorialu pokazano jak zainstalować Git i skonfigurować go z R Studio. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QLFc9gw_Hfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" zezwól na pełny ekran dane-zewnętrzne="1"></iframe>
 
+# Samouczek wideo 2
+
+W drugim video-tutorialu pokazano, jak utworzyć repozytorium, sklonować je, dodać plik, zatwierdzić zmiany i wypchnąć je na GitHub (praca dwóch osób pracujących na jednym repo).
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=megZYkCLMA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" zezwól na pełny ekran dane-zewnętrzne="1"></iframe>
 
