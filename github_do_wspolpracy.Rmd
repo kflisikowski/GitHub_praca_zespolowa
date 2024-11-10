@@ -34,8 +34,10 @@ zdecydowanie warto tam zajrzeć.
 W pierwszym video-tutorialu pokazano jak zainstalować Git i
 skonfigurować go z R Studio.
 
-[![Jak zacząć pracę w
-Git](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQLFc9gw_Hfs)](https://www.youtube.com/embed/QLFc9gw_Hfs)
+[![Tutorial
+1.](images/sam1.jpg)](https://www.youtube.com/embed/QLFc9gw_Hfs)
+
+![]()
 
 # Samouczek wideo 2.
 
@@ -43,8 +45,8 @@ W drugim video-tutorialu pokazano, jak utworzyć repozytorium, sklonować
 je, dodać plik, zatwierdzić zmiany i wypchnąć je na GitHub (praca dwóch
 osób pracujących na jednym repo).
 
-[![Jak zacząć pracę w zespole korzystając z
-Git](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmegZYkCLMA4)](https://www.youtube.com/watch?v=megZYkCLMA4)
+[![Tutorial
+2.](images/sam2.jpg)](https://www.youtube.com/watch?v=megZYkCLMA4)
 
 # Git i GitHub
 
